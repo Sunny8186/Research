@@ -18,3 +18,20 @@ body {
 .active{
     color: yellow;
 }
+footer { 
+    text-align: center
+
+}
+.img-fit{
+    width: 50%;
+    height: 50%;
+    text-align: right;
+    margin-right: 10px;
+}
+footer { 
+   height:75px
+}
+
+.footer-text{
+   font-size: 25px;
+}
