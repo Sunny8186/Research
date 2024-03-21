@@ -18,10 +18,6 @@ body {
 .active{
     color: yellow;
 }
-footer { 
-    text-align: center
-
-}
 .img-fit{
     width: 50%;
     height: 50%;
@@ -29,7 +25,11 @@ footer {
     margin-right: 10px;
 }
 footer { 
-   height:75px
+   position: fixed;
+   bottom: 0;
+   left:0;
+   right:0;
+    text-align: center
 }
 
 .footer-text{
@@ -39,4 +39,14 @@ footer {
     margin-left: 15% ;
     margin-right: 15% ;
     margin-top: 10px;
+}
+.img-model{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.paragraph{
+    text-align: center;
+    margin: 10px 10%
 }
