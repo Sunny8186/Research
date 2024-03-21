@@ -35,10 +35,8 @@ footer {
 .footer-text{
    font-size: 25px;
 }
-.border-width{
-    width:50%;
-    display: flex;
-  justify-content: center;
-  align-items: center;
-
+#whats-good{
+    margin-left: 15% ;
+    margin-right: 15% ;
+    margin-top: 10px;
 }
